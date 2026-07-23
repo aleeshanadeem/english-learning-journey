@@ -1,7 +1,7 @@
 # 125 Days of Consistency 🚀
 
 
-![125 Days of Consistency](images/125-days-consistency.png)
+![125 Days of Consistency](Image)
 ## About
 
 For the past **125 consecutive days**, I have practiced English every single day using **Duolingo**.
