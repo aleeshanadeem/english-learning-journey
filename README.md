@@ -1,11 +1,7 @@
 # 125 Days of Consistency 🚀
 
 
-<p align="center">
-<img src="![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…](![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…]()
-)
-" width="900">
-</p>
+![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…]()
 
 ## About
 
