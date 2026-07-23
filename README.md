@@ -53,17 +53,7 @@ but over months it creates significant growth.
 
 ---
 
-## Connect With Me
-
-GitHub:
-([](https://github.com/aleeshanadeem))
-
-LinkedIn:
-(your LinkedIn)
-
-Medium:
-(your Medium)
-
+Aleesha Nadeem 
 ---
 
 > Small Lessons. Big Growth.
