@@ -1,9 +1,7 @@
 # 125 Days of Consistency 🚀
 
-<p align="center">
-<img src="<img width="1254" height="1254" alt="ChatGPT Image Jul 23, 2026, 03_19_44 PM" src="https://github.com/user-attachments/assets/1423ae4f-ccb3-47c9-8919-35e3a887fa27" />
-" width="900">
-</p>
+![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…]()
+
 
 ## About
 
