@@ -1,8 +1,7 @@
 # 125 Days of Consistency 🚀
 
 
-![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…]()
-
+![125 Days of Consistency](images/125-days-consistency.png)
 ## About
 
 For the past **125 consecutive days**, I have practiced English every single day using **Duolingo**.
