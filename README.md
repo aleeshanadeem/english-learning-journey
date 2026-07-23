@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<img src="![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…]()
+<img src="![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…](![Uploading ChatGPT Image Jul 23, 2026, 03_19_44 PM.png…]()
+)
 " width="900">
 </p>
 
